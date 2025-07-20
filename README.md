@@ -80,13 +80,7 @@ git clone https://github.com/yourusername/regression-workflow.git
 cd regression-workflow
 ```
 
-### Step 2: Install Required Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Step 3: Launch the Notebook
+### Step 2: Launch the Notebook
 
 ```bash
 jupyter notebook Predictive_Modeling.ipynb
