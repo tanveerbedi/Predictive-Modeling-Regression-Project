@@ -1,7 +1,5 @@
 # 📊 Predictive Modeling Project: Advanced Regression Workflow
 
-![Project Preview](8ba4b8cb-51f5-443c-80a3-cb16131e735d.png)
-
 This repository presents a detailed and professional implementation of a regression-based machine learning pipeline. It encompasses everything from data ingestion and preprocessing to model experimentation, evaluation, optimization, and final prediction generation. Built using Python and Jupyter Notebook, this project serves as a strong foundation for solving real-world continuous value prediction problems.
 
 ---
