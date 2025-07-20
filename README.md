@@ -139,5 +139,3 @@ Machine Learning and Data Science Practitioner
 This project is licensed for academic and non-commercial educational use only.
 
 ---
-
-> *If you find this project valuable, consider giving it a ⭐ and sharing it within your learning community!*
